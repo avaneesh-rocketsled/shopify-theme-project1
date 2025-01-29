@@ -296,10 +296,10 @@
     }
   },
   "order": [
-    "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
+    "image_banner",
     "video",
     "multicolumn",
     "featured_product_nN9W38"
