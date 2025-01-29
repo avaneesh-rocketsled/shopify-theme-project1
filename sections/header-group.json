@@ -53,10 +53,51 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "announcement_bar_9cwi67": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_XH7yxM": {
+          "type": "announcement",
+          "settings": {
+            "text": "Clearance on Shoes",
+            "link": ""
+          }
+        },
+        "announcement_AB4D89": {
+          "type": "announcement",
+          "settings": {
+            "text": "New Spring Collection",
+            "link": ""
+          }
+        },
+        "announcement_TyAJFN": {
+          "type": "announcement",
+          "settings": {
+            "text": "Create your Account now and get 50% off",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_XH7yxM",
+        "announcement_AB4D89",
+        "announcement_TyAJFN"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "show_line_separator": false,
+        "show_social": false,
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "enable_country_selector": false,
+        "enable_language_selector": false
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "announcement_bar_9cwi67"
   ]
 }
