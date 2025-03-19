@@ -103,11 +103,30 @@
             "color_scheme": "",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_FiCtzE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/smiling-woman-poses_925x_661b269d-e717-4905-9d6d-ca3df242b0df.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "ghot",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_rqK9ng",
-        "slide_7cPQxb"
+        "slide_7cPQxb",
+        "slide_FiCtzE"
       ],
       "settings": {
         "layout": "grid",
